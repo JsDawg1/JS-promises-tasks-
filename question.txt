@@ -1,0 +1,27 @@
+Just some random basic tasks for learning Promise in javascript
+
+Task-1 :
+
+Fetch data from an API using the fetch function and handle the promise with .then() and .catch().
+
+Task-2 : 
+
+Simulate an asynchronous operation using a promise and setTimeout.
+
+Task 3: 
+
+Chain two promises using .then() to perform asynchronous operations one after the other.
+
+Task 4:
+
+Use Promise.race() to simulate a race between two promises and log the result of the promise that resolves first.
+
+Task 5: 
+
+Use Promise.all() to wait for multiple promises to resolve and log all the results together.
+
+
+
+
+
+all the answer (atleast for the unknows) are mentioned in the script.js file, feel free to look around solution
